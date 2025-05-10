@@ -67,4 +67,3 @@
 </p>
 
 
-![snake gif](https://github.com/mohamed97163/mohamed97163/blob/output/snake.svg)
