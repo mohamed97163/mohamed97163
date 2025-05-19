@@ -19,7 +19,7 @@
 </h1>-->
 </div> 
 
-- 🔭 I’m currently working on **Magical Code**
+- 🔭 I’m currently working on **Tarmeez Tech**
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
